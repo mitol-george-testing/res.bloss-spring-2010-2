@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering"
+    ],
+    [
+      "Mathematics"
+    ],
+    [
+      "Science"
+    ],
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    [
+      "Teaching and Education",
+      "Educational Technology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d4d925c1-c4c8-1d6c-d859-f74e751d5f02"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Blended Learning Open Source Science or Math Studies (BLOSSOMS)",
+  "course_description": "BLOSSOMS stands for Blended Learning Science or Math Studies. It is a project sponsored by MIT LINC (Learning International Networks Consortium) a consortium of educators from around the world who are interested in using distance and e-Learning technologies to help their respective countries increase access to quality education for a larger percentage of the population.\n\n[BLOSSOMS Online](http://blossoms.mit.edu/)\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.BLOSS",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
